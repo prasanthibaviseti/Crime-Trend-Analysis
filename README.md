@@ -1,4 +1,4 @@
-# Crime Trend Analysis
+
 # 📊 Chicago Crime Data Analysis (2023–2025)
 
 This project performs Exploratory Data Analysis (EDA) on recent crime data from Chicago, focusing on trends, hotspots, arrest patterns, and statistical relationships between different variables. The goal is to uncover insights that could support crime prevention strategies, law enforcement resource allocation, and public safety awareness.
